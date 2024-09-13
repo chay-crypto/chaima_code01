@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color:red;
+}
+header nav
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;echo "# chaima.code01" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/chay-crypto/chaima.code01.git
+git push -u origin main
+    background-color: beige;
+}
+
+.header ul
+{
+    display: flex;
+    list-style: none;
+}
+body span
+{
+    color: blue;
+}
+.header img{
+    width: 70px;
+
+}
